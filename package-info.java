@@ -1,1 +1,1 @@
-package CollectionAssign1;
+package CalculateInterest;
